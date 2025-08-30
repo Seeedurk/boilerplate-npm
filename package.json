@@ -1,8 +1,5 @@
 {
-	"author": {
-  "name": "Sedrik Pp",
-  "email": "sedrik@example.com"
-}
+	"author": "Sedrik Pp <sedrik@example.com>"
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
