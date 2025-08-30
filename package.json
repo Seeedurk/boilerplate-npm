@@ -1,5 +1,5 @@
 {
-	"author": "Sedrik Punzalan <sedrik@example.com>"
+	"author": "Sedrik Punzalan <sedrik@example.com>",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
@@ -13,5 +13,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-	"description": "A project that does something awesome",
+
 }
